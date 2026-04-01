@@ -1,0 +1,10 @@
+PUBLIC=1
+PRIVATE=2
+PROTECTED=3
+STATIC=4
+FINAL=5
+'public'=1
+'private'=2
+'protected'=3
+'static'=4
+'final'=5
